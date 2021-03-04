@@ -15,3 +15,6 @@
 - [Must do dynamic programming problems category wise ](https://leetcode.com/discuss/general-discussion/1050391/Must-do-Dynamic-programming-Problems-Category-wise)
 
 - [Important and useful links from all over hte Leetcode](https://leetcode.com/discuss/general-discussion/665604/Important-and-Useful-links-from-all-over-the-LeetCode)
+
+- [Powerful dynamic programming explanation](https://leetcode.com/discuss/general-discussion/1081421/Powerful-Dynamic-Programming-Explanation))
+-
