@@ -2,7 +2,7 @@
 
 ## Dynamic programming
 
-### Leetcode
+**Leetcode**
 
 - [DP for Beginners [Problems | Patterns | Sample Solutions]](https://leetcode.com/discuss/general-discussion/662866/DP-for-Beginners-Problems-or-Patterns-or-Sample-Solutions)
 
@@ -18,11 +18,10 @@
 
 - [Powerful dynamic programming explanation](https://leetcode.com/discuss/general-discussion/1081421/Powerful-Dynamic-Programming-Explanation)
 
-### Topcoder
+**Topcoder**
 
 - [Dynamic programming from novice to advance](https://www.topcoder.com/community/competitive-programming/tutorials/dynamic-programming-from-novice-to-advanced/)
--
 
-### Codeforces
+**Codeforces**
 
 - [Dp tutorial and programming list](https://codeforces.com/blog/entry/67679)
