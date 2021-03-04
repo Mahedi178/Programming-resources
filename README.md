@@ -34,7 +34,7 @@
 
 **Youtube**
 
-- Pepcoding [Basic](https://www.youtube.com/watch?v=94dfRrDANRY&list=PL-Jc9J83PIiG8fE6rj9F5a6uyQ5WPdqKy&ab_channel=Pepcoding) [Advanced](https://www.youtube.com/watch?v=odrfUCS9sQk&list=PL-Jc9J83PIiEZvXCn-c5UIBvfT8dA-8EG&ab_channel=Pepcoding)
+- Pepcoding [DP Basic](https://www.youtube.com/watch?v=94dfRrDANRY&list=PL-Jc9J83PIiG8fE6rj9F5a6uyQ5WPdqKy&ab_channel=Pepcoding) [DP Advanced](https://www.youtube.com/watch?v=odrfUCS9sQk&list=PL-Jc9J83PIiEZvXCn-c5UIBvfT8dA-8EG&ab_channel=Pepcoding)
 - Aditya verma [DP playlist](https://www.youtube.com/watch?v=nqowUJzG-iM&list=PL_z_8CaSLPWekqhdCPmFohncHwz8TY2Go&ab_channel=AdityaVerma)
 - Back to Back SWE [DP playlist](https://www.youtube.com/watch?v=Zq4upTEaQyM&list=PLiQ766zSC5jM2OKVr8sooOuGgZkvnOCTI&ab_channel=BackToBackSWE)
 - kartik Arora [Basic to advanced](https://www.youtube.com/watch?v=24hk2qW_BCU&list=PLb3g_Z8nEv1h1w6MI8vNMuL_wrI0FtqE7&ab_channel=KartikArora)
