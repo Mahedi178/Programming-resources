@@ -1,8 +1,8 @@
 # Programming resources
 
-## **Leetcode**
+## Dynamic programming
 
-### Dynamic programming
+### Leetcode
 
 - [DP for Beginners [Problems | Patterns | Sample Solutions]](https://leetcode.com/discuss/general-discussion/662866/DP-for-Beginners-Problems-or-Patterns-or-Sample-Solutions)
 
@@ -17,3 +17,12 @@
 - [Important and useful links from all over hte Leetcode](https://leetcode.com/discuss/general-discussion/665604/Important-and-Useful-links-from-all-over-the-LeetCode)
 
 - [Powerful dynamic programming explanation](https://leetcode.com/discuss/general-discussion/1081421/Powerful-Dynamic-Programming-Explanation)
+
+### Topcoder
+
+- [Dynamic programming from novice to advance](https://www.topcoder.com/community/competitive-programming/tutorials/dynamic-programming-from-novice-to-advanced/)
+-
+
+### Codeforces
+
+- [Dp tutorial and programming list](https://codeforces.com/blog/entry/67679)
