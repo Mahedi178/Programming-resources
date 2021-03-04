@@ -15,11 +15,15 @@
 **Topcoder**
 
 - [Dynamic programming from novice to advance](https://www.topcoder.com/community/competitive-programming/tutorials/dynamic-programming-from-novice-to-advanced/)
+- [Commonly used DP state domains](https://apps.topcoder.com/forums/?module=Thread&threadID=697369&start=0)
+- [Introducing Dynamic Programming](https://apps.topcoder.com/forums/?module=Thread&threadID=700080&start=0)
+- [Optimizing DP solution](https://apps.topcoder.com/forums/?module=Thread&threadID=697925&start=0)
 
 **Codeforces**
 
 - [Dp tutorial and programming list](https://codeforces.com/blog/entry/67679)
 - [Good Collection of resources of DP](https://codeforces.com/blog/entry/88310)
+- [Everything About Dynamic Programming](https://codeforces.com/blog/entry/43256)
 
 **Atcoder**
 
