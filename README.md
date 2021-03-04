@@ -24,6 +24,9 @@
 - [Dp tutorial and programming list](https://codeforces.com/blog/entry/67679)
 - [Good Collection of resources of DP](https://codeforces.com/blog/entry/88310)
 - [Everything About Dynamic Programming](https://codeforces.com/blog/entry/43256)
+- [Dynamic Programming Type](https://codeforces.com/blog/entry/325)
+- [Dynamic Programming Optimizations](https://codeforces.com/blog/entry/8219)
+- [Dynamic Programming Tutorials](https://codeforces.com/blog/entry/73446)
 
 **Atcoder**
 
