@@ -11,6 +11,7 @@
 - [Must do dynamic programming problems category wise ](https://leetcode.com/discuss/general-discussion/1050391/Must-do-Dynamic-programming-Problems-Category-wise)
 - [Important and useful links from all over hte Leetcode](https://leetcode.com/discuss/general-discussion/665604/Important-and-Useful-links-from-all-over-the-LeetCode)
 - [Powerful dynamic programming explanation](https://leetcode.com/discuss/general-discussion/1081421/Powerful-Dynamic-Programming-Explanation)
+- [How to solve DP - String? Template and 4 Steps to be followed.](https://leetcode.com/discuss/general-discussion/651719/How-to-solve-DP-String-Template-and-4-Steps-to-be-followed.)
 
 **Topcoder**
 
@@ -43,3 +44,13 @@
 **Others**
 
 - [Geeksforgeeks](https://www.geeksforgeeks.org/dynamic-programming/)
+
+## Disjoint Set Union/Union-find
+
+**Leetcode**
+
+- [Disjoint Set Union (DSU)/Union-Find - A Complete Guide](<https://leetcode.com/discuss/general-discussion/1072418/Disjoint-Set-Union-(DSU)Union-Find-A-Complete-Guide>)
+
+## Graph
+
+- [Graph For Beginners [Problems | Pattern | Sample Solutions]](https://leetcode.com/discuss/general-discussion/655708/Graph-For-Beginners-Problems-or-Pattern-or-Sample-Solutions)
