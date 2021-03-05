@@ -12,6 +12,7 @@
 - [Important and useful links from all over hte Leetcode](https://leetcode.com/discuss/general-discussion/665604/Important-and-Useful-links-from-all-over-the-LeetCode)
 - [Powerful dynamic programming explanation](https://leetcode.com/discuss/general-discussion/1081421/Powerful-Dynamic-Programming-Explanation)
 - [How to solve DP - String? Template and 4 Steps to be followed.](https://leetcode.com/discuss/general-discussion/651719/How-to-solve-DP-String-Template-and-4-Steps-to-be-followed.)
+- [DP IS EASY! 5 Steps to Think Through DP Questions.](https://leetcode.com/problems/target-sum/discuss/455024/DP-IS-EASY!-5-Steps-to-Think-Through-DP-Questions)
 
 **Topcoder**
 
