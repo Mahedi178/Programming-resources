@@ -41,6 +41,7 @@
 - Back to Back SWE [DP playlist](https://www.youtube.com/watch?v=Zq4upTEaQyM&list=PLiQ766zSC5jM2OKVr8sooOuGgZkvnOCTI&ab_channel=BackToBackSWE)
 - kartik Arora [Basic to advanced](https://www.youtube.com/watch?v=24hk2qW_BCU&list=PLb3g_Z8nEv1h1w6MI8vNMuL_wrI0FtqE7&ab_channel=KartikArora)
 - TECH DOSE [DP playlist](https://www.youtube.com/watch?v=f19e_ofbydc&list=PLEJXowNB4kPzhcTNLaBgtddxRAgOnhu68&ab_channel=TECHDOSE)
+- Kashish Mehndiratta [DP Playlist](https://www.youtube.com/watch?v=kN6l_Blitr8&list=PLNxqWc8Uj2LRX8GaMJFeRE0Nx5gLBxBBX)
 
 **Others**
 
