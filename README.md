@@ -63,6 +63,7 @@
 **Codeforces**
 
 - [Sack (dsu on trees)](https://codeforces.com/blog/entry/44351)
+- [[Explanation] dsu on trees ( small to large)](https://codeforces.com/blog/entry/67696)
 
 ## Graph
 
