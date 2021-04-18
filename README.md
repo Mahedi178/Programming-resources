@@ -30,6 +30,12 @@
 - [Dynamic Programming Optimizations](https://codeforces.com/blog/entry/8219)
 - [Dynamic Programming Tutorials](https://codeforces.com/blog/entry/73446)
 - [Non-trivial DP Tricks Techniques](https://codeforces.com/blog/entry/47764)
+- [DP on Trees Tutorial](https://codeforces.com/blog/entry/20935)
+- [Online Query Based Rerooting Technique](https://codeforces.com/blog/entry/76150)
+- [Digit DP](https://codeforces.com/blog/entry/53960)
+- [Digit DP Tutorial Iterative](https://codeforces.com/blog/entry/53960)
+- [Digit DP + Matrix Chain Multiplication](https://codeforces.com/blog/entry/86079)
+- [Introduction to DP with Bitmasking](https://codeforces.com/blog/entry/81516)
 
 **Atcoder**
 
@@ -54,6 +60,10 @@
 
 - [Disjoint Set Union (DSU)/Union-Find - A Complete Guide](<https://leetcode.com/discuss/general-discussion/1072418/Disjoint-Set-Union-(DSU)Union-Find-A-Complete-Guide>)
 
+**Codeforces**
+
+- [Sack (dsu on trees)](https://codeforces.com/blog/entry/44351)
+
 ## Graph
 
 **Leetcode**
@@ -65,3 +75,9 @@
 **Leetcode**
 
 - [Must do all required Sorting Algorithms: Complete Guide](https://leetcode.com/discuss/general-discussion/1091763/must-do-all-required-sorting-algorithms-complete-guide)
+
+## CSES
+
+**Codeforces**
+
+- [CSES Problemset Editorial (almost all section editorial collection)](https://codeforces.com/blog/entry/83343)
