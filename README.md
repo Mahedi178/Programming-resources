@@ -29,6 +29,7 @@
 - [Dynamic Programming Type](https://codeforces.com/blog/entry/325)
 - [Dynamic Programming Optimizations](https://codeforces.com/blog/entry/8219)
 - [Dynamic Programming Tutorials](https://codeforces.com/blog/entry/73446)
+- [Non-trivial DP Tricks Techniques](https://codeforces.com/blog/entry/47764)
 
 **Atcoder**
 
